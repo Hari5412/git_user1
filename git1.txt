@@ -1,0 +1,2 @@
+New file created in git_1 branch
+practing the remote push and pull
